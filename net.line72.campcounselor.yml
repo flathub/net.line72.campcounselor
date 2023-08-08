@@ -44,6 +44,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/line72/campcounselor.git
-        tag: 0.99.6
-        commit: 114fb2e3a87dc2b73498b3470e3a0c01d254b7bb
+        tag: 0.99.7
+        commit: b72d9451a07e42d3184c30a54fe4791b093b4dfc
 

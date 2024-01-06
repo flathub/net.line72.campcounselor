@@ -12,6 +12,8 @@ finish-args:
   - --device=dri
   # Needs to talk to the network:
   - --share=network
+  # libsecret for database password
+  - --talk-name=org.freedesktop.secrets
 cleanup:
   - /include
   - /lib/pkgconfig

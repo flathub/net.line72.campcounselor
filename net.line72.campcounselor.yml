@@ -27,6 +27,7 @@ cleanup:
   - /share/gir-1.0
 modules:
   - shared-modules/intltool/intltool-0.51.json
+  - modules/postgresql.json
   - name: libgda
     buildsystem: meson
     sources:

@@ -1,0 +1,34 @@
+From 3f2566597c6b5bb2c88c5b24eb56ff624764f58c Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <yakushabb@gmail.com>
+Date: Thu, 14 Nov 2024 18:02:41 +0300
+Subject: [PATCH] Fix appdata papercuts
+
+---
+ data/net.line72.campcounselor.metainfo.xml | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/data/net.line72.campcounselor.metainfo.xml b/data/net.line72.campcounselor.metainfo.xml
+index e25e4a9..a9aacfb 100644
+--- a/data/net.line72.campcounselor.metainfo.xml
++++ b/data/net.line72.campcounselor.metainfo.xml
+@@ -10,7 +10,7 @@
+   <project_license>GPL-3.0-or-later</project_license>
+   <content_rating type="oars-1.1" />
+ 
+-  <developer id="line72.net">
++  <developer id="net.line72">
+     <name translatable="no">Marcus Dillavou</name>
+   </developer>
+   
+@@ -33,6 +33,8 @@
+   </description>
+ 
+   <url type="homepage">https://line72.net/software/camp-counselor</url>
++  <url type="bugtracker">https://github.com/line72/campcounselor/issues</url>
++  <url type="vcs-browser">https://github.com/line72/campcounselor</url>
+   <launchable type="desktop-id">net.line72.campcounselor.desktop</launchable>
+   <screenshots>
+     <screenshot type="default">
+--
+libgit2 1.7.2
+

@@ -66,4 +66,6 @@ modules:
         url: https://github.com/line72/campcounselor.git
         tag: 1.2.1
         commit: 9610b34e578c05d9af718b588ce3942968a73ba9
+      - type: patch
+        path: fix-appdata.patch
 

@@ -16,6 +16,8 @@ finish-args:
   - --socket=pulseaudio
   # libsecret for database password
   - --talk-name=org.freedesktop.secrets
+  # dbus
+  - --own-name=org.mpris.MediaPlayer2.CampCounselor
 cleanup:
   - /include
   - /lib/pkgconfig

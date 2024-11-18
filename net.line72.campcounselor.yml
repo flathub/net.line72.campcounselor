@@ -1,6 +1,6 @@
 app-id: net.line72.campcounselor
 runtime: org.gnome.Platform
-runtime-version: '45'
+runtime-version: '47'
 sdk: org.gnome.Sdk
 command: campcounselor
 finish-args:
@@ -64,6 +64,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/line72/campcounselor.git
-        tag: 1.2.1
+        tag: 1.4.0
         commit: 9610b34e578c05d9af718b588ce3942968a73ba9
 

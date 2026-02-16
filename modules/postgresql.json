@@ -13,8 +13,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://ftp.postgresql.org/pub/source/v15.3/postgresql-15.3.tar.bz2",
-            "sha256": "ffc7d4891f00ffbf5c3f4eab7fbbced8460b8c0ee63c5a5167133b9e6599d932"
+            "url": "https://ftp.postgresql.org/pub/source/v18.2/postgresql-18.2.tar.bz2",
+            "sha256": "5245bd1b79700d55b8e0575be0325ef61e7bbef627e6a616e4cf36ad4687be36"
         }
     ]
 }
